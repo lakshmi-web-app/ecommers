@@ -1,0 +1,22 @@
+#logreg-forms{
+    width:60%;
+    margin:10vh auto;
+    background-color:#f8f8f8;
+}
+#logreg-forms form {
+    width: 100%;
+    max-width: 410px;
+    padding: 15px;
+    margin: auto;
+}
+#logreg-forms .social-btn{
+    font-weight: 100;
+    color:white;
+    width:190px;
+    font-size: 0.9rem;
+}
+#logreg-forms .facebook-btn{  background-color:#3C589C; }
+
+#logreg-forms .google-btn{ background-color: #DF4B3B; }
+
+

@@ -1,0 +1,28 @@
+<div class="container">
+    <!-- <table>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Desc</th>
+            <th>Price</th>
+            <th>Updated</th>
+
+        </tr>
+        <tr *ngFor="let phone of phoneDetails;">
+            <td>{{phone?.id}}</td>
+            <td>{{phone?.name}}</td>
+            <td>{{phone?.desc}}</td>
+            <td>{{phone?.price}}</td>
+            <td>{{phone?.updated}}</td>
+        </tr>
+    </table> -->
+    <div class="row">
+        <div class="col-md-3">
+            <app-left-nav></app-left-nav>
+        </div>
+        <div class="col-md-9">
+            <router-outlet></router-outlet>
+
+        </div>
+    </div>
+</div>

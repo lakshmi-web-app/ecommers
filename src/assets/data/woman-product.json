@@ -1,0 +1,130 @@
+[
+
+    {
+        "id":"w-e-001",
+        "image":"1.jpg",
+        "foldername":"img2",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+        
+    },
+    {
+        "id":"w-e-002",
+        "image":"2.jpg",
+        "foldername":"img3",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img4",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img5",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img6",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img7",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img1-7",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-1",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-2",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-3",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-4",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-5",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-6",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    },
+    {
+        "id":"w-e-003",
+        "image":"2.jpg",
+        "foldername":"img-7",
+        "status":"coomingsoon",
+        "brand":"morpakanh ",
+        "price":"799",
+        "type":"ethic dress"
+    }
+]

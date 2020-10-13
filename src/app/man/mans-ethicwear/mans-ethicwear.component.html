@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-md-4" *ngFor="let man of manProducts;">
+        <div class="card" >
+            <a href="">
+                <img class="card-img-top" 
+                src="assets/images/mans/ethic-wear/{{man?.image}}"
+                 alt="Card image cap">   
+            </a>
+            <div class="card-body text-center">
+                <h5 class="text-center">{{man?.status}}</h5>
+              <p class="card-title"><i class="fa fa-inr" aria-hidden="true"></i>
+                {{man?.price}}</p>
+              <p class="card-text">{{man?.type}}</p>
+            </div>
+          </div>
+    </div>
+</div>

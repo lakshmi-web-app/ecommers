@@ -1,0 +1,17 @@
+<div class="row">
+    <div class="col-md-4" *ngFor="let infants of kidsinfants;">
+        <div class="card" >
+            <a href="">
+                <img class="card-img-top" 
+                src="assets/images/kids/infancts/{{infants?.image}}"
+                 alt="Card image cap">   
+            </a>
+            <div class="card-body text-center">
+                <h5 class="text-center">{{infants?.status}}</h5>
+              <p class="card-title"><i class="fa fa-inr" aria-hidden="true"></i>
+                {{infants?.price}}</p>
+              <p class="card-text">{{infants?.type}}</p>
+            </div>
+          </div>
+    </div>
+</div>
